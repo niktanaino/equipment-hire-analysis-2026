@@ -1,5 +1,5 @@
 -- Equipment Hire Analysis (synthetic data) | BigQuery
--- Table paths use my project ID. Change them if you copy this.
+-- Table paths use my project ID project-cc8cddff-8563-49bc-b21. 
 
 -- 1. Clean the data: remove duplicates, fix depot names, fill blank customers
 CREATE OR REPLACE TABLE `project-cc8cddff-8563-49bc-b21.equipment_hire.hire_clean` AS
