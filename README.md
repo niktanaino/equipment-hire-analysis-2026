@@ -32,7 +32,7 @@ SQL (Google BigQuery), Power BI
 - Kept blank off-hire and collection dates, because they are the findings
 
 ## Findings
-Across all 800 hires, **5.4%** had no off-hire logged and **7.2%** were collected late.
+Across all 800 hires,43 came back with no off hire logged wich is **5.4%** and **7.2%** were collected late.
 
 | Measure | Worst depot | Rate | Company average |
 |---|---|---|---|
