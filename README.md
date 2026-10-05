@@ -32,11 +32,11 @@ SQL (Google BigQuery), Power BI
 - Kept blank off-hire and collection dates, because they are the findings
 
 ## Findings
-Across all 800 hires,43 came back with no off hire logged wich is **5.4%** and **7.2%** were collected late.
+Across all 800 hires, 43 came back with no off hire logged which is **5.4%** and **7.3%** were collected late.
 
 | Measure | Worst depot | Rate | Company average |
 |---|---|---|---|
-| Late collections | Leeds (15 of 83 hires) | 18.1% | 7.2% |
+| Late collections | Leeds (15 of 83 hires) | 18.1% | 7.3% |
 | Missing off-hires | Cardiff (6 of 61 hires) | 9.8% | 5.4% |
 
 - **Leeds** has a late-collection rate about 2.5 times the average.
@@ -44,6 +44,8 @@ Across all 800 hires,43 came back with no off hire logged wich is **5.4%** and *
 - **Clamps & Trolleys** have the highest late-collection rate by category (9.6%).
 - **Slings & Rigging** have the most missing off-hires by count (22), as they make up the largest share of hires.
 - 23 hires have no collection date at all.
+
+![Dashboard](dashboard.png)
 
 ## Recommendations
 1. Review collection scheduling at Leeds.
