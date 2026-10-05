@@ -1,8 +1,6 @@
 # equipment-hire-analysis-2026
 SQL analysis of synthetic equipment hire data to find depots with missing off-hires and late collections
 
-Equipment Hire Analysis: Missing Off-Hires and Late Collections
-
 **Question:** Which depots and equipment categories have the most missing off-hires and late collections?
 
 ## Why it matters
@@ -32,7 +30,7 @@ SQL (Google BigQuery), Power BI
 - Kept blank off-hire and collection dates, because they are the findings
 
 ## Findings
-Across all 800 hires, 43 came back with no off hire logged which is **5.4%** and **7.3%** were collected late.
+Across all 800 hires, 43 (5.4%) had no off hire logged and 58 (7.3%) were collected late.
 
 | Measure | Worst depot | Rate | Company average |
 |---|---|---|---|
